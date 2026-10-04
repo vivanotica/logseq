@@ -10,6 +10,6 @@
 (source
  (fetch
   (url
-   git+https://github.com/logseq/datascript-ocaml.git#9a7ce4091da6ee288e938cca0ca8e8c0b1295f28)))
+   git+https://github.com/logseq/datascript-ocaml.git#e2bda6d3f265fb0d6dbed96aa5185eab974f285d)))
 
 (dev)
